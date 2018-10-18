@@ -1,3 +1,7 @@
+[requires]
+python_version = "3.6"
+
+
 #Bot qui gère le débat
 import sys
 import discord
